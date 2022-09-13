@@ -22,6 +22,6 @@ All notable changes to this project will be documented in this file.
 
 ## GitHub Links
 
-[Unreleased]: 
+\[Unreleased]: [https://github.com/mfdunlap/ear_stim_project/compare/v1.0.0...HEAD](https://github.com/mfdunlap/ear_stim_project/compare/v1.0.0...HEAD)
 
-[1.0.0]:
+\[1.0.0]: [https://github.com/mfdunlap/ear_stim_project/releases/tag/v1.0.0](https://github.com/mfdunlap/ear_stim_project/releases/tag/v1.0.0)
