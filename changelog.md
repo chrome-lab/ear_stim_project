@@ -10,6 +10,7 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - Map minimum PWM value to move motor - 1 (*insert value here when known*) through max PWM value (255) to 0 through 100
+- Update README for better descriptions of the project, installation, and running procedures.
 
 ## [1.0.0] - 2022-09-12
 
