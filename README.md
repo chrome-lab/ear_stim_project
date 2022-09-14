@@ -68,7 +68,7 @@ If you look under **Tools** > **Board** > **Adafruit nRF52** and see *Sparkfun P
 
 ## Uploading new/updated code to a board
 
-1) Open '*ear_stim_project/ear_stim/ear_stim.ino*' the Arduino IDE.
+1) Open '*ear_stim_project/ear_stim/ear_stim.ino*' in the Arduino IDE.
 
 2) Create the circuit as shown in circuit_diagram.png.
 
