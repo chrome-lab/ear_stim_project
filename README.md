@@ -12,7 +12,7 @@
 
 </br>
 
-## Installation (HI THIS IS A CHANGE)
+## Installation
 
 ### Preparing the Environment
 
